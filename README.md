@@ -1,12 +1,45 @@
-# Hi there 👋🏻
+# Antyscript
+> NikeName
+## some skills
+![HTML5](https://img.shields.io/badge/HTML5-!DOCTYPE-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-stylesheet-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-13-blue?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-7-blueviolet?logo=mui&logoColor=white)
+![Cookies](https://img.shields.io/badge/Cookies-httpOnly-gray?logo=cookie&logoColor=white)
+![Auth](https://img.shields.io/badge/Auth-JWT-blue?logo=json-web-token&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-API-darkgreen?logo=api&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Deploy-2B2B2B?logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-version-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-005571?logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Backend-404D59?logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTP-5A29E4?logo=axios&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-Linter-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-Formatter-F7B93E?logo=prettier&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data-000000?logo=json&logoColor=white)
+![RESTful](https://img.shields.io/badge/RESTful-Design-2E8B57?logo=swagger&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-0082C9?logo=socketdotio&logoColor=white)
+![NGROK](https://img.shields.io/badge/Ngrok-Tunnel-1F1E37?logo=ngrok&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Hosting-46E3B7?logo=render&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-Packages-CB3837?logo=npm&logoColor=white)
 
-- 🌱 I’m learning web development
-### some skills :
-- 🔴|Html.
-- 🔵|css.
-- 🟡|JavaScript.
-### Framework and libraries:
-- ⚛️|React Js
-- ⚪|Next js
-- 🔵|Mui 
-  
+> Jr. Web Dev/MERN stack
+
+## Accounts 
+ Github : [github](https://github.com/antysctipt)
+ 
+Reddit : [reddit](https://www.reddit.com/u/antyscript/s/Pare5xYAhf)
